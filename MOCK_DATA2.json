@@ -1,0 +1,6 @@
+[
+    {"fname": "sam", "bnum": "batch-1", "os": "iOS",   "pr": 23},
+    {"fname": "john", "bnum": "batch-2", "os": "iOS",   "pr": 14},
+    {"fname": "sam", "bnum": "batch-2", "os": "win",   "pr": 15},
+    {"fname": "sam", "bnum": "batch-1", "os": "linux", "pr": 22}
+]
